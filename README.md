@@ -22,6 +22,7 @@ The Collection View Estimate size was set to Automatic, which made the view look
 
 
 Previous Version - 
+
 <img src="./images/flixster-list-view.gif" width=250><br>
 
 
