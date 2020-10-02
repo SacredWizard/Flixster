@@ -18,10 +18,10 @@ Simple Movie List View App for iOS
 <img src="./images/flixster-tabs.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+The Collection View Estimate size was set to Automatic, which made the view look like tiny cells. Changing it to None fixed the issue.
 
 
 Previous Version - 
+<img src="./images/flixster-list-view.gif" width=250><br>
 
-<img src="./images/flixster-list-view.gif">
 
